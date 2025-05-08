@@ -1,0 +1,9 @@
+dependencies:
+  M5GFX:
+    git: https://github.com/m5stack/M5GFX.git
+    path: .
+    version: "develop"
+  M5Unified:
+    git: https://github.com/m5stack/M5Unified.git
+    path: .
+    version: "develop"
